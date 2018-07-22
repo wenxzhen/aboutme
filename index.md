@@ -1,10 +1,18 @@
 # Wenxing Zheng 
-* Mail - 1981/11/07 
+* Birth - 1981/11/07 
 * Mobile: 13810226207  
 * Mail: wenxing.zheng@gmail.com 
+* [中文版本](./)
 
 # Working Experience 
-## [CSDN](www.csdn.net), 2016/07 ~ now 
+## [Huobi](www.huobigroup.com), 2018/05 ~ now
+*Senior Software Engineer - DataService*
+
+* responsible the Exchange of Huobi pro
+
+**Tools: Java, Go**
+
+## [CSDN](www.csdn.net), 2016/07 ~ 2018/05 
 *Development Manager - DataService Platform - a small team* 
 * responsible of dataservice platform management, including the production(Aliyun/private IDC) and staging environment. Hands  on various components 
   * Hadoop/Hive/HBase/Spark/Spark Streaming/Kafka/Flume/Confluent/ElasticSearch and etc, various data sources collection and etl  
@@ -37,3 +45,9 @@ https://github.com/istresearch/scrapy-cluster) open sources.
 * Security Lead, responsible of the Security threat & risk analysis, and the security architecture for the AGCF, also including the security audit, and security coding.
 
 **Tools: C++, Java, Shell, Oracle**
+
+# Education 
+* Master 2004.7 ~ 2007.4 - Computer Science and Technology - Shijiazhuang Tiedao University(Shijiazhuang Railway Institute)
+* Bachelor 2000.9 ~ 2004.6 - Computer Science and Technology - Shijiazhuang Tiedao University
+* Meritorious Winner in the 4 years of undergraduates
+* 3rd prize - National English Competition for College Students
