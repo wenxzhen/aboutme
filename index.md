@@ -2,15 +2,29 @@
 * Birth - 1981/11/07 
 * Mobile: 13810226207  
 * Mail: wenxing.zheng@gmail.com 
-* [中文版本](./)
+* [中文版本](./index_ch.md)
 
 # Working Experience 
 ## [Huobi](www.huobigroup.com), 2018/05 ~ now
-*Senior Software Engineer - DataService*
+*Technical Expert - Order Service and Asset Management Service*
 
-* responsible the Exchange of Huobi pro
+* lead the development on the core systems/services of spot exchange, including:
+  * order services
+  * clearing service
+  * account service
+  * asset management service, e.g. deposit and withdraw of digit currency and fiat
+* within 2 years, the stabliity and efficiency have been improved greatly, e.g.
+  * place an order P95：13.3 times
+  * cancel an order P95：57.8 times
+  * order throughput：20 times
+  * place an order (round trip) P95：8.8 times
+  * cancel an order (round trip)：15.9 times
+  * trade with settlement (round trip) P95：10.9 times
+  * cancel with settlement (round trip) P95：7.2 times
+  * clearing throughput：66.7 times
+  * trade peek：48.7 times
 
-**Tools: Java, Go**
+**Tools: Java **
 
 ## [CSDN](www.csdn.net), 2016/07 ~ 2018/05 
 *Development Manager - DataService Platform - a small team* 
