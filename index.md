@@ -6,13 +6,14 @@
 
 # Working Experience 
 ## [Huobi](www.huobigroup.com), 2018/05 ~ now
-*Technical Expert - Order Service and Asset Management Service*
+*Technical Expert - leader of Order Clearing & Finance prodcuts
 
-* lead the development on the core systems/services of spot exchange, including:
+* lead the development on the core systems/services for spot trading, including:
   * order services
   * clearing service
   * account service
   * asset management service, e.g. deposit and withdraw of digit currency and fiat
+  * Grid trading, margin, etp and etc
 * within 2 years, the stabliity and efficiency have been improved greatly, e.g.
   * place an order P95：13.3 times
   * cancel an order P95：57.8 times
